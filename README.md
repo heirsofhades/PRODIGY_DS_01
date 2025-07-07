@@ -24,6 +24,6 @@ Analyzed the 2024 world population data using the World Bank dataset. Filtered v
 - `RawData.csv` (if used)
 
 ## 🔗 LinkedIn Post
-[Insert your LinkedIn post link here after publishing]
+[https://www.linkedin.com/posts/bhavesh-uchainiya-734651136_prodigyinfotech-datascience-excel-activity-7348019840827195392-cE0H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEzB9gB68oVgeCqSHu01XNoWfb_ViJtAeg]
 
 ----
