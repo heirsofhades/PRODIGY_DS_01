@@ -20,7 +20,7 @@ Analyzed the 2024 world population data using the World Bank dataset. Filtered v
 
 ## 📂 Files Included
 - `Population_Analysis.xlsx`
-- `population_chart.png`
+- `population chart.png`
 - `RawData.csv` (if used)
 
 ## 🔗 LinkedIn Post
